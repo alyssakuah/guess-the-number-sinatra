@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+html {
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  background-image: url("img/light-bg2.png");
+  color: violet;
+  text-align: center;
+  font-family: "Lobster", serif;
+  font-size: 22px
+}
+
+
+hi {
+font-family: "Lobster"
+}
+
+
+.title {
+  font-size: 20em;
+}
+
+.btn {
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em 2em 0.5em 0.5em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+
+.guess{
+  font-size: 2em;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+.trophy{
+  height: 400px;
+}
